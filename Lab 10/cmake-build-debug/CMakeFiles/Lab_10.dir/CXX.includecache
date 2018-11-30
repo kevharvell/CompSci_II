@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kev/Desktop/CS/162/Lab 10/FibonacciNR.cpp
+FibonacciNR.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 10/FibonacciNR.hpp
+iostream
+-
+
+C:/Users/Kev/Desktop/CS/162/Lab 10/FibonacciNR.hpp
+
+C:/Users/Kev/Desktop/CS/162/Lab 10/FibonacciR.cpp
+FibonacciR.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 10/FibonacciR.hpp
+iostream
+-
+
+C:/Users/Kev/Desktop/CS/162/Lab 10/FibonacciR.hpp
+
+C:/Users/Kev/Desktop/CS/162/Lab 10/main.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+FibonacciR.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 10/FibonacciR.hpp
+FibonacciNR.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 10/FibonacciNR.hpp
+

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kev/Desktop/CS/162/Lab 8/InputValidation.cpp
+iostream
+-
+sstream
+-
+InputValidation.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 8/InputValidation.hpp
+
+C:/Users/Kev/Desktop/CS/162/Lab 8/InputValidation.hpp
+string
+-
+
+C:/Users/Kev/Desktop/CS/162/Lab 8/main.cpp
+searchSortIO.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 8/searchSortIO.hpp
+InputValidation.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 8/InputValidation.hpp
+
+C:/Users/Kev/Desktop/CS/162/Lab 8/searchSortIO.cpp
+searchSortIO.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 8/searchSortIO.hpp
+fstream
+-
+string
+-
+
+C:/Users/Kev/Desktop/CS/162/Lab 8/searchSortIO.hpp
+iostream
+-
+fstream
+-
+vector
+-
+

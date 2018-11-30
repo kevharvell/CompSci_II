@@ -1,0 +1,108 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kev/Desktop/CS/162/Project 2/Animal.cpp
+iostream
+-
+Animal.hpp
+C:/Users/Kev/Desktop/CS/162/Project 2/Animal.hpp
+Tiger.hpp
+C:/Users/Kev/Desktop/CS/162/Project 2/Tiger.hpp
+Zoo.hpp
+C:/Users/Kev/Desktop/CS/162/Project 2/Zoo.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project 2/Animal.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project 2/InputValidation.cpp
+iostream
+-
+sstream
+-
+InputValidation.hpp
+C:/Users/Kev/Desktop/CS/162/Project 2/InputValidation.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project 2/InputValidation.hpp
+string
+-
+
+C:/Users/Kev/Desktop/CS/162/Project 2/Menu.cpp
+iostream
+-
+Menu.hpp
+C:/Users/Kev/Desktop/CS/162/Project 2/Menu.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project 2/Menu.hpp
+vector
+-
+string
+-
+InputValidation.hpp
+C:/Users/Kev/Desktop/CS/162/Project 2/InputValidation.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project 2/Penguin.cpp
+Penguin.hpp
+C:/Users/Kev/Desktop/CS/162/Project 2/Penguin.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project 2/Penguin.hpp
+Animal.hpp
+C:/Users/Kev/Desktop/CS/162/Project 2/Animal.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project 2/Tiger.cpp
+Tiger.hpp
+C:/Users/Kev/Desktop/CS/162/Project 2/Tiger.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project 2/Tiger.hpp
+Animal.hpp
+C:/Users/Kev/Desktop/CS/162/Project 2/Animal.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project 2/Turtle.cpp
+Turtle.hpp
+C:/Users/Kev/Desktop/CS/162/Project 2/Turtle.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project 2/Turtle.hpp
+Animal.hpp
+C:/Users/Kev/Desktop/CS/162/Project 2/Animal.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project 2/Zoo.cpp
+iostream
+-
+random
+-
+Menu.hpp
+C:/Users/Kev/Desktop/CS/162/Project 2/Menu.hpp
+Zoo.hpp
+C:/Users/Kev/Desktop/CS/162/Project 2/Zoo.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project 2/Zoo.hpp
+InputValidation.hpp
+C:/Users/Kev/Desktop/CS/162/Project 2/InputValidation.hpp
+Animal.hpp
+C:/Users/Kev/Desktop/CS/162/Project 2/Animal.hpp
+Tiger.hpp
+C:/Users/Kev/Desktop/CS/162/Project 2/Tiger.hpp
+Penguin.hpp
+C:/Users/Kev/Desktop/CS/162/Project 2/Penguin.hpp
+Turtle.hpp
+C:/Users/Kev/Desktop/CS/162/Project 2/Turtle.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project 2/main.cpp
+iostream
+-
+ctime
+-
+Menu.hpp
+C:/Users/Kev/Desktop/CS/162/Project 2/Menu.hpp
+Zoo.hpp
+C:/Users/Kev/Desktop/CS/162/Project 2/Zoo.hpp
+Tiger.hpp
+C:/Users/Kev/Desktop/CS/162/Project 2/Tiger.hpp
+Penguin.hpp
+C:/Users/Kev/Desktop/CS/162/Project 2/Penguin.hpp
+Turtle.hpp
+C:/Users/Kev/Desktop/CS/162/Project 2/Turtle.hpp
+

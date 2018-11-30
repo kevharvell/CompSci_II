@@ -1,0 +1,68 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kev/Desktop/CS/162/Group Project 1/Ant.cpp
+Ant.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project 1/Ant.hpp
+
+C:/Users/Kev/Desktop/CS/162/Group Project 1/Ant.hpp
+Critter.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project 1/Critter.hpp
+Game.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project 1/Game.hpp
+ctime
+-
+cstdlib
+-
+
+C:/Users/Kev/Desktop/CS/162/Group Project 1/Critter.cpp
+Critter.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project 1/Critter.hpp
+
+C:/Users/Kev/Desktop/CS/162/Group Project 1/Critter.hpp
+
+C:/Users/Kev/Desktop/CS/162/Group Project 1/Game.hpp
+Critter.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project 1/Critter.hpp
+doodlebug.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project 1/doodlebug.hpp
+
+C:/Users/Kev/Desktop/CS/162/Group Project 1/ant.hpp
+Critter.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project 1/Critter.hpp
+Game.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project 1/Game.hpp
+ctime
+-
+cstdlib
+-
+
+C:/Users/Kev/Desktop/CS/162/Group Project 1/doodlebug.hpp
+iostream
+-
+Critter.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project 1/Critter.hpp
+Game.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project 1/Game.hpp
+
+C:/Users/Kev/Desktop/CS/162/Group Project 1/main.cpp
+Critter.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project 1/Critter.hpp
+ant.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project 1/ant.hpp
+doodlebug.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project 1/doodlebug.hpp
+Game.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project 1/Game.hpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+

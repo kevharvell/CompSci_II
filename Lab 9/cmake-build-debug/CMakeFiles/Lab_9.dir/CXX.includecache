@@ -1,0 +1,64 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kev/Desktop/CS/162/Lab 9/InputValidation.cpp
+iostream
+-
+sstream
+-
+InputValidation.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 9/InputValidation.hpp
+
+C:/Users/Kev/Desktop/CS/162/Lab 9/InputValidation.hpp
+string
+-
+
+C:/Users/Kev/Desktop/CS/162/Lab 9/Menu.cpp
+iostream
+-
+limits
+-
+Menu.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 9/Menu.hpp
+
+C:/Users/Kev/Desktop/CS/162/Lab 9/Menu.hpp
+vector
+-
+string
+-
+InputValidation.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 9/InputValidation.hpp
+
+C:/Users/Kev/Desktop/CS/162/Lab 9/bufferPalindrome.cpp
+bufferPalindrome.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 9/bufferPalindrome.hpp
+InputValidation.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 9/InputValidation.hpp
+iostream
+-
+
+C:/Users/Kev/Desktop/CS/162/Lab 9/bufferPalindrome.hpp
+queue
+-
+stack
+-
+
+C:/Users/Kev/Desktop/CS/162/Lab 9/main.cpp
+bufferPalindrome.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 9/bufferPalindrome.hpp
+Menu.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 9/Menu.hpp
+iostream
+-
+string
+-
+ctime
+-
+random
+-
+

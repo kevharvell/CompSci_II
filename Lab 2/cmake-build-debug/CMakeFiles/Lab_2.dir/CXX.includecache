@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kev/Desktop/CS/162/Lab 2/count_letters.cpp
+count_letters.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 2/count_letters.hpp
+output_letters.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 2/output_letters.hpp
+iostream
+-
+fstream
+-
+cctype
+-
+
+C:/Users/Kev/Desktop/CS/162/Lab 2/count_letters.hpp
+fstream
+-
+
+C:/Users/Kev/Desktop/CS/162/Lab 2/main.cpp
+iostream
+-
+string
+-
+count_letters.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 2/count_letters.hpp
+
+C:/Users/Kev/Desktop/CS/162/Lab 2/output_letters.cpp
+output_letters.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 2/output_letters.hpp
+iostream
+-
+fstream
+-
+string
+-
+
+C:/Users/Kev/Desktop/CS/162/Lab 2/output_letters.hpp
+fstream
+-
+

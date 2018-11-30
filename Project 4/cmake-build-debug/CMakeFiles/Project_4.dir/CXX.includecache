@@ -1,0 +1,158 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kev/Desktop/CS/162/Project 4/Barbarian.cpp
+Barbarian.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/Barbarian.hpp
+Die.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/Die.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project 4/Barbarian.hpp
+Character.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/Character.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project 4/BlueMen.cpp
+BlueMen.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/BlueMen.hpp
+Die.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/Die.hpp
+cmath
+-
+
+C:/Users/Kev/Desktop/CS/162/Project 4/BlueMen.hpp
+Character.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/Character.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project 4/Character.cpp
+Character.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/Character.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project 4/Character.hpp
+string
+-
+
+C:/Users/Kev/Desktop/CS/162/Project 4/Die.cpp
+Die.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/Die.hpp
+cstdlib
+-
+
+C:/Users/Kev/Desktop/CS/162/Project 4/Die.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project 4/Game.cpp
+Game.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/Game.hpp
+Character.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/Character.hpp
+Vampire.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/Vampire.hpp
+Barbarian.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/Barbarian.hpp
+BlueMen.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/BlueMen.hpp
+Medusa.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/Medusa.hpp
+HarryPotter.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/HarryPotter.hpp
+iostream
+-
+string
+-
+
+C:/Users/Kev/Desktop/CS/162/Project 4/Game.hpp
+Menu.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/Menu.hpp
+InputValidation.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/InputValidation.hpp
+List.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/List.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project 4/HarryPotter.cpp
+HarryPotter.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/HarryPotter.hpp
+Die.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/Die.hpp
+iostream
+-
+
+C:/Users/Kev/Desktop/CS/162/Project 4/HarryPotter.hpp
+Character.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/Character.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project 4/InputValidation.cpp
+iostream
+-
+sstream
+-
+InputValidation.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/InputValidation.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project 4/InputValidation.hpp
+string
+-
+
+C:/Users/Kev/Desktop/CS/162/Project 4/List.cpp
+unordered_set
+-
+List.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/List.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project 4/List.hpp
+Character.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/Character.hpp
+iostream
+-
+
+C:/Users/Kev/Desktop/CS/162/Project 4/Medusa.cpp
+Medusa.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/Medusa.hpp
+Die.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/Die.hpp
+iostream
+-
+
+C:/Users/Kev/Desktop/CS/162/Project 4/Medusa.hpp
+Character.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/Character.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project 4/Menu.cpp
+iostream
+-
+limits
+-
+Menu.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/Menu.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project 4/Menu.hpp
+vector
+-
+string
+-
+InputValidation.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/InputValidation.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project 4/Vampire.cpp
+Vampire.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/Vampire.hpp
+Die.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/Die.hpp
+iostream
+-
+
+C:/Users/Kev/Desktop/CS/162/Project 4/Vampire.hpp
+Character.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/Character.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project 4/main.cpp
+Game.hpp
+C:/Users/Kev/Desktop/CS/162/Project 4/Game.hpp
+iostream
+-
+time.h
+-
+

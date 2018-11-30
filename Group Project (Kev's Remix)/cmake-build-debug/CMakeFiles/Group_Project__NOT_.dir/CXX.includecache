@@ -1,0 +1,96 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/Ant.cpp
+Ant.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/Ant.hpp
+cstdlib
+-
+vector
+-
+
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/Ant.hpp
+Critter.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/Critter.hpp
+Game.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/Game.hpp
+
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/Critter.cpp
+Critter.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/Critter.hpp
+
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/Critter.hpp
+
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/Doodlebug.cpp
+Doodlebug.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/Doodlebug.hpp
+cstdlib
+-
+vector
+-
+
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/Doodlebug.hpp
+Critter.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/Critter.hpp
+
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/Game.cpp
+cstdlib
+-
+iostream
+-
+Game.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/Game.hpp
+Ant.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/Ant.hpp
+Doodlebug.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/Doodlebug.hpp
+
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/Game.hpp
+Critter.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/Critter.hpp
+Menu.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/Menu.hpp
+
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/InputValidation.cpp
+iostream
+-
+sstream
+-
+InputValidation.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/InputValidation.hpp
+
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/InputValidation.hpp
+string
+-
+
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/Menu.cpp
+iostream
+-
+Menu.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/Menu.hpp
+
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/Menu.hpp
+vector
+-
+string
+-
+InputValidation.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/InputValidation.hpp
+
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/main.cpp
+Game.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/Game.hpp
+Critter.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/Critter.hpp
+Menu.hpp
+C:/Users/Kev/Desktop/CS/162/Group Project (Kev's Remix)/Menu.hpp
+iostream
+-
+ctime
+-
+

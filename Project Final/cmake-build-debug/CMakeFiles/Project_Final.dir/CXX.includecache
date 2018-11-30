@@ -1,0 +1,104 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kev/Desktop/CS/162/Project Final/CandleRoom.cpp
+CandleRoom.hpp
+C:/Users/Kev/Desktop/CS/162/Project Final/CandleRoom.hpp
+iostream
+-
+
+C:/Users/Kev/Desktop/CS/162/Project Final/CandleRoom.hpp
+Space.hpp
+C:/Users/Kev/Desktop/CS/162/Project Final/Space.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project Final/Game.cpp
+Game.hpp
+C:/Users/Kev/Desktop/CS/162/Project Final/Game.hpp
+Room.hpp
+C:/Users/Kev/Desktop/CS/162/Project Final/Room.hpp
+CandleRoom.hpp
+C:/Users/Kev/Desktop/CS/162/Project Final/CandleRoom.hpp
+GhostRoom.hpp
+C:/Users/Kev/Desktop/CS/162/Project Final/GhostRoom.hpp
+iostream
+-
+
+C:/Users/Kev/Desktop/CS/162/Project Final/Game.hpp
+Space.hpp
+C:/Users/Kev/Desktop/CS/162/Project Final/Space.hpp
+InputValidation.hpp
+C:/Users/Kev/Desktop/CS/162/Project Final/InputValidation.hpp
+Menu.hpp
+C:/Users/Kev/Desktop/CS/162/Project Final/Menu.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project Final/GhostRoom.cpp
+GhostRoom.hpp
+C:/Users/Kev/Desktop/CS/162/Project Final/GhostRoom.hpp
+iostream
+-
+
+C:/Users/Kev/Desktop/CS/162/Project Final/GhostRoom.hpp
+Space.hpp
+C:/Users/Kev/Desktop/CS/162/Project Final/Space.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project Final/InputValidation.cpp
+iostream
+-
+sstream
+-
+limits
+-
+InputValidation.hpp
+C:/Users/Kev/Desktop/CS/162/Project Final/InputValidation.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project Final/InputValidation.hpp
+string
+-
+
+C:/Users/Kev/Desktop/CS/162/Project Final/Menu.cpp
+iostream
+-
+limits
+-
+Menu.hpp
+C:/Users/Kev/Desktop/CS/162/Project Final/Menu.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project Final/Menu.hpp
+vector
+-
+string
+-
+InputValidation.hpp
+C:/Users/Kev/Desktop/CS/162/Project Final/InputValidation.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project Final/Room.cpp
+Room.hpp
+C:/Users/Kev/Desktop/CS/162/Project Final/Room.hpp
+iostream
+-
+
+C:/Users/Kev/Desktop/CS/162/Project Final/Room.hpp
+Space.hpp
+C:/Users/Kev/Desktop/CS/162/Project Final/Space.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project Final/Space.cpp
+Space.hpp
+C:/Users/Kev/Desktop/CS/162/Project Final/Space.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project Final/Space.hpp
+
+C:/Users/Kev/Desktop/CS/162/Project Final/main.cpp
+Game.hpp
+C:/Users/Kev/Desktop/CS/162/Project Final/Game.hpp
+Space.hpp
+C:/Users/Kev/Desktop/CS/162/Project Final/Space.hpp
+ctime
+-
+iostream
+-
+

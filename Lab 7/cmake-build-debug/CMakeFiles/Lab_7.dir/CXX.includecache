@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kev/Desktop/CS/162/Lab 7/InputValidation.cpp
+iostream
+-
+sstream
+-
+InputValidation.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 7/InputValidation.hpp
+
+C:/Users/Kev/Desktop/CS/162/Lab 7/InputValidation.hpp
+string
+-
+
+C:/Users/Kev/Desktop/CS/162/Lab 7/Menu.cpp
+iostream
+-
+Menu.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 7/Menu.hpp
+
+C:/Users/Kev/Desktop/CS/162/Lab 7/Menu.hpp
+vector
+-
+string
+-
+InputValidation.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 7/InputValidation.hpp
+
+C:/Users/Kev/Desktop/CS/162/Lab 7/Queue.cpp
+Queue.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 7/Queue.hpp
+
+C:/Users/Kev/Desktop/CS/162/Lab 7/Queue.hpp
+iostream
+-
+
+C:/Users/Kev/Desktop/CS/162/Lab 7/main.cpp
+Menu.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 7/Menu.hpp
+Queue.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 7/Queue.hpp
+iostream
+-
+

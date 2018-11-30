@@ -1,0 +1,84 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kev/Desktop/CS/162/Lab 3/Die.cpp
+Die.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 3/Die.hpp
+cstdlib
+-
+
+C:/Users/Kev/Desktop/CS/162/Lab 3/Die.hpp
+
+C:/Users/Kev/Desktop/CS/162/Lab 3/Game.cpp
+iostream
+-
+string
+-
+Game.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 3/Game.hpp
+
+C:/Users/Kev/Desktop/CS/162/Lab 3/Game.hpp
+Menu.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 3/Menu.hpp
+InputValidation.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 3/InputValidation.hpp
+Die.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 3/Die.hpp
+LoadedDie.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 3/LoadedDie.hpp
+
+C:/Users/Kev/Desktop/CS/162/Lab 3/InputValidation.cpp
+iostream
+-
+sstream
+-
+InputValidation.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 3/InputValidation.hpp
+
+C:/Users/Kev/Desktop/CS/162/Lab 3/InputValidation.hpp
+string
+-
+
+C:/Users/Kev/Desktop/CS/162/Lab 3/LoadedDie.cpp
+random
+-
+LoadedDie.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 3/LoadedDie.hpp
+
+C:/Users/Kev/Desktop/CS/162/Lab 3/LoadedDie.hpp
+Die.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 3/Die.hpp
+
+C:/Users/Kev/Desktop/CS/162/Lab 3/Menu.cpp
+iostream
+-
+Menu.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 3/Menu.hpp
+
+C:/Users/Kev/Desktop/CS/162/Lab 3/Menu.hpp
+vector
+-
+string
+-
+InputValidation.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 3/InputValidation.hpp
+
+C:/Users/Kev/Desktop/CS/162/Lab 3/main.cpp
+iostream
+-
+ctime
+-
+random
+-
+Game.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 3/Game.hpp
+Die.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 3/Die.hpp
+LoadedDie.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 3/LoadedDie.hpp
+

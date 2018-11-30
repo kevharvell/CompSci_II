@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kev/Desktop/CS/162/Lab 1/determinant.cpp
+determinant.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 1/determinant.hpp
+
+C:/Users/Kev/Desktop/CS/162/Lab 1/determinant.hpp
+
+C:/Users/Kev/Desktop/CS/162/Lab 1/main.cpp
+iostream
+-
+readMatrix.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 1/readMatrix.hpp
+determinant.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 1/determinant.hpp
+
+C:/Users/Kev/Desktop/CS/162/Lab 1/readMatrix.cpp
+iostream
+-
+sstream
+-
+readMatrix.hpp
+C:/Users/Kev/Desktop/CS/162/Lab 1/readMatrix.hpp
+
+C:/Users/Kev/Desktop/CS/162/Lab 1/readMatrix.hpp
+
